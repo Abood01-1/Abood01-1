@@ -49,5 +49,4 @@
 
 <img src="https://raw.githubusercontent.com/Abood01-1/Abood01-1/output/snake.svg" alt="Snake animation" />
 
-###ct: ...
--->
+###
